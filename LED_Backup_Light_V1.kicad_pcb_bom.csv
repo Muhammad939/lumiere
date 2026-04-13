@@ -1,0 +1,17 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins
+"C1, C2",2,22uf,C_0805_2012Metric,,,,smt,Unpolarized capacitor,
+D1,1,1N5819,D_SOD-123,,,,smt,Schottky diode,
+D2,1,SS14,D_SOD-123,,,,smt,Schottky diode,
+"D3, D4",2,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,,smt,Light emitting diode,1=K 2=A
+J1,1,BAT,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated",
+J2,1,LED,"TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal",,,,tht,"Generic connector, single row, 01x02, script generated",
+J3,1,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,,,,smt,USB 2.0-only 16P Type-C Receptacle connector,
+L1,1,4.7uh,L_Sunlord_SWPA5020S,,,,smt,Inductor,
+Q1,1,AO3401A,SOT-23,,,,smt,"-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23",
+R1,1,1k,R_0805_2012Metric,,,,smt,Resistor,
+"R2, R_prog1",2,10k0,R_0805_2012Metric,,,,smt,Resistor,
+"R3, R4",2,100,R_0805_2012Metric,,,,smt,Resistor,
+RV1,1,10k,Potentiometer_Bourns_3296W_Vertical,,,,tht,Trim-potentiometer,
+TH1,1,Thermistor_NTC,R_0805_2012Metric,,,,smt,"Temperature dependent resistor, negative temperature coefficient",
+U1,1,TP4056-42-ESOP8,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias,,,,smt,"1A Standalone Linear Li-ion/LiPo single-cell battery charger, 4.2V ±1% charge voltage, VCC = 4.0..8.0V, SOIC-8 (SOP-8)",
+U2,1,MT3608,SOT-23-6,,,,smt,"High Efficiency 1.2MHz 2A Step Up Converter, 2-24V Vin, 28V Vout, 4A current limit, 1.2MHz, SOT23-6",
