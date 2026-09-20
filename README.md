@@ -20,4 +20,4 @@ Charging: TP4056 with ~130mA safe charge current
 
 Why Lumiere?
 Most cheap emergency lights are fixed voltage and limited. Lumiere is designed to be truly flexible — you can connect virtually any LED light you have and fine-tune the exact voltage needed for optimal brightness and efficiency.
-Perfect for frequent power cuts in Pakistan (and anywhere else).
+Perfect for frequent power cuts.
